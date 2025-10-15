@@ -3,6 +3,6 @@ import { Injectable } from '@nestjs/common';
 @Injectable()
 export class CarsharingBatchService {
   getHello(): string {
-    return 'Carsharing Batch server!';
+    return 'Carsharing BATCH server!';
   }
 }
